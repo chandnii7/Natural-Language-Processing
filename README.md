@@ -24,8 +24,8 @@
 
 ### HW2 - Text preprocessing using Shell commands
 <img src="https://github.com/chandnii7/NLP/blob/main/hw2/images/img1.jpg" height="100" width="400"/>
-<img src="https://github.com/chandnii7/NLP/blob/main/hw2/images/img2.jpg" height="200" width="500"/>
-<img src="https://github.com/chandnii7/NLP/blob/main/hw2/images/img3.jpg" height="100" width="600"/>
+<img src="https://github.com/chandnii7/NLP/blob/main/hw2/images/img2.jpg" height="250" width="500"/>
+<img src="https://github.com/chandnii7/NLP/blob/main/hw2/images/img3.jpg" height="200" width="600"/>
 
 ### HW3 - Naive Bayes text categorization model
 <img src="https://github.com/chandnii7/NLP/blob/main/hw3/images/img1.jpg" height="200" width="400"/>
